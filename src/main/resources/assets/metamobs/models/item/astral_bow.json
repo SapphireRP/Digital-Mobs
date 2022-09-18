@@ -1,0 +1,7 @@
+{
+  "parent": "metamobs:custom/astral_bow",
+  "textures": {
+    "1": "metamobs:blocks/astral_bow_texture",
+    "particle": "metamobs:items/astral_bow"
+  }
+}

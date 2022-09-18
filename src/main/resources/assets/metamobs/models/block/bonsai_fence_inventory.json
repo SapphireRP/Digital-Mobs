@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "metamobs:blocks/bonsai_planks",
+    "particle": "metamobs:blocks/bonsai_planks"
+  }
+}

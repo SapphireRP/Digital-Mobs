@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "particle": "metamobs:blocks/metawood2planks",
+    "texture": "metamobs:blocks/metawood2planks"
+  }
+}

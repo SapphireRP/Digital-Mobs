@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "particle": "metamobs:blocks/bonsai_planks",
+    "texture": "metamobs:blocks/bonsai_planks"
+  }
+}

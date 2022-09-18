@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "metamobs:blocks/bonsai_planks",
+    "particle": "metamobs:blocks/bonsai_planks"
+  }
+}

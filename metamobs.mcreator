@@ -1,0 +1,609 @@
+{
+  "mod_elements": [
+    {
+      "name": "EarthIcon",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "earth_icon"
+    },
+    {
+      "name": "StartYourAdventure",
+      "type": "achievement",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "start_your_adventure"
+    },
+    {
+      "name": "StartYourAdventureProcedure",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "start_your_adventure_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BonsaiWood",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_wood"
+    },
+    {
+      "name": "BonsaiLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_log"
+    },
+    {
+      "name": "BonsaiPlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_planks"
+    },
+    {
+      "name": "BonsaiLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_leaves"
+    },
+    {
+      "name": "BonsaiStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_stairs"
+    },
+    {
+      "name": "BonsaiSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_slab"
+    },
+    {
+      "name": "BonsaiFence",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_fence"
+    },
+    {
+      "name": "BonsaiFenceGate",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_fence_gate"
+    },
+    {
+      "name": "BonsaiPressurePlate",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_pressure_plate"
+    },
+    {
+      "name": "BonsaiButton",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_button"
+    },
+    {
+      "name": "BonsaiItemsTag",
+      "type": "tag",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_items_tag"
+    },
+    {
+      "name": "BonsaiWoodRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_wood_recipe"
+    },
+    {
+      "name": "BonsaiPlanksRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_planks_recipe"
+    },
+    {
+      "name": "BonsaiStairsRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_stairs_recipe"
+    },
+    {
+      "name": "BonsaiSlabRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_slab_recipe"
+    },
+    {
+      "name": "BonsaiFenceRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_fence_recipe"
+    },
+    {
+      "name": "BonsaiFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_fence_gate_recipe"
+    },
+    {
+      "name": "BonsaiPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_pressure_plate_recipe"
+    },
+    {
+      "name": "BonsaiButtonRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_button_recipe"
+    },
+    {
+      "name": "BonsaiStickRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bonsai_stick_recipe"
+    },
+    {
+      "name": "MetaMobs",
+      "type": "tab",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_mobs"
+    },
+    {
+      "name": "MetaWoodWood",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_wood"
+    },
+    {
+      "name": "MetaWoodLog",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_log"
+    },
+    {
+      "name": "MetaWoodPlanks",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_planks"
+    },
+    {
+      "name": "MetaWoodLeaves",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_leaves"
+    },
+    {
+      "name": "MetaWoodStairs",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_stairs"
+    },
+    {
+      "name": "MetaWoodSlab",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_slab"
+    },
+    {
+      "name": "MetaWoodFence",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_fence"
+    },
+    {
+      "name": "MetaWoodFenceGate",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_fence_gate"
+    },
+    {
+      "name": "MetaWoodPressurePlate",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_pressure_plate"
+    },
+    {
+      "name": "MetaWoodButton",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_button"
+    },
+    {
+      "name": "MetaWoodItemsTag",
+      "type": "tag",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_items_tag"
+    },
+    {
+      "name": "MetaWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_wood_recipe"
+    },
+    {
+      "name": "MetaWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_planks_recipe"
+    },
+    {
+      "name": "MetaWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_stairs_recipe"
+    },
+    {
+      "name": "MetaWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_slab_recipe"
+    },
+    {
+      "name": "MetaWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_fence_recipe"
+    },
+    {
+      "name": "MetaWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_fence_gate_recipe"
+    },
+    {
+      "name": "MetaWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "MetaWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_button_recipe"
+    },
+    {
+      "name": "MetaWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meta_wood_stick_recipe"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "FenceBlocks",
+      "type": "tag",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fence_blocks"
+    },
+    {
+      "name": "WoodenFenceBlocks",
+      "type": "tag",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_fence_blocks"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leave_blocks"
+    },
+    {
+      "name": "PlankItems",
+      "type": "tag",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plank_items"
+    },
+    {
+      "name": "BlackMetaOre",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_meta_ore"
+    },
+    {
+      "name": "BlueMetaOre",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_meta_ore"
+    },
+    {
+      "name": "RedMetaOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_meta_ore"
+    },
+    {
+      "name": "YellowMetaOre",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_meta_ore"
+    },
+    {
+      "name": "AstralBullet",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "astral_bullet"
+    },
+    {
+      "name": "AstralBow",
+      "type": "rangeditem",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "astral_bow"
+    },
+    {
+      "name": "AstralBowRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "astral_bow_recipe"
+    },
+    {
+      "name": "SnailTransparentEntityModelCondition",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snail_transparent_entity_model_condition",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Snail",
+      "type": "livingentity",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snail"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "btrmadness",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0.0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.metamobs.meta_wood_log": "MetaWood Log",
+      "block.saphmetamobs.meta_wood_fence": "MetaWood Fence",
+      "item.saphmetamobs.blue_crystal_shard": "Blue Crystal Shard",
+      "item.saphmetamobs.de_bug_hoe": "DeBug Hoe",
+      "block.metamobs.meta_wood_planks": "MetaWood Planks",
+      "block.metamobs.meta_wood_wood": "MetaWood Wood",
+      "item.saphmetamobs.raw_meat": "Raw Meat",
+      "item.saphmetamobs.eg_floppy": "EG Floppy",
+      "block.metamobs.bonsai_slab": "Bonsai Slab",
+      "block.metamobs.meta_wood_leaves": "MetaWood Leaves",
+      "block.saphmetamobs.green_crystal": "Green Crystal",
+      "item.saphmetamobs.rock_dude_spawn_egg": "Rock Dude Spawn Egg",
+      "block.saphmetamobs.blue_crystal": "Blue Crystal",
+      "block.metamobs.bonsai_planks": "Bonsai Planks",
+      "item.saphmetamobs.de_bug_sword": "DeBug Sword",
+      "block.saphmetamobs.house_block": "House Block",
+      "block.saphmetamobs.test_block": "Test Block",
+      "item.metamobs.snail_spawn_egg": "Snail Spawn Egg",
+      "block.metamobs.bonsai_leaves": "Bonsai Leaves",
+      "item.metamobs.astral_bow": "Astral Bow",
+      "item.saphmetamobs.green_crystal_shard": "Green Crystal Shard",
+      "block.metamobs.bonsai_fence": "Bonsai Fence",
+      "block.saphmetamobs.red_crystal": "Red Crystal",
+      "block.metamobs.bonsai_log": "Bonsai Log",
+      "block.saphmetamobs.meta_wood_stairs": "MetaWood Stairs",
+      "block.saphmetamobs.meta_wood_planks": "MetaWood Planks",
+      "block.metamobs.meta_wood_pressure_plate": "MetaWood Pressure Plate",
+      "entity.saphmetamobs.rock_dude_2": "Rock Dude",
+      "item.saphmetamobs.suka_pill": "Suka Pill",
+      "item.saphmetamobs.de_bug_shovel": "DeBug Shovel",
+      "item.saphmetamobs.ice_dragon_scale": "Ice Dragon Scale",
+      "entity.saphmetamobs.trex": "Trex",
+      "fluid.acid": "Acid",
+      "item.saphmetamobs.astral_bullet": "Astral Bullet",
+      "item.metamobs.astral_bullet": "Astral Star",
+      "item.saphmetamobs.cooked_meat": "Cooked Meat",
+      "block.saphmetamobs.black_meta_block": "Black Meta Block",
+      "itemGroup.tabmeta_mobs": "MetaMobs",
+      "block.metamobs.meta_wood_slab": "MetaWood Slab",
+      "block.metamobs.bonsai_wood": "Bonsai Wood",
+      "block.saphmetamobs.i_block": "Ice DragonSteel Block",
+      "block.saphmetamobs.yellow_crystal": "Yellow Crystal",
+      "advancements.start_your_adventure.title": "Start Your Adventure",
+      "item.saphmetamobs.acid_bucket": "Acid Bucket",
+      "block.metamobs.meta_wood_fence_gate": "MetaWood Fence Gate",
+      "item.saphmetamobs.liquid_ice_dragon_scale": "Liquid Ice Dragon Scale",
+      "block.metamobs.meta_wood_button": "MetaWood Button",
+      "item.saphmetamobs.red_crystal_shard": "Red Crystal Shard",
+      "block.metamobs.bonsai_fence_gate": "Bonsai Fence Gate",
+      "block.saphmetamobs.meta_wood_fence_gate": "MetaWood Fence Gate",
+      "item.saphmetamobs.yellow_crystal_shard": "Yellow Crystal Shard",
+      "block.metamobs.bonsai_button": "Bonsai Button",
+      "fluid.saphmetamobs.acid": "Acid",
+      "item.saphmetamobs.de_bug_pickaxe": "DeBug Pickaxe",
+      "item.saphmetamobs.de_bug_axe": "DeBug Axe",
+      "block.metamobs.black_meta_ore": "Black Meta Block",
+      "block.saphmetamobs.acid": "Acid",
+      "item.saphmetamobs.astral_bow": "Astral Bow",
+      "block.metamobs.yellow_meta_ore": "Yellow Meta Block",
+      "block.metamobs.bonsai_pressure_plate": "Bonsai Pressure Plate",
+      "item.saphmetamobs.ice_dragonsteel_block": "Ice DragonSteel",
+      "block.saphmetamobs.yellow_meta_block": "Yellow Meta Block",
+      "block.saphmetamobs.meta_wood_log": "MetaWood Log",
+      "item.saphmetamobs.metalong": "Metalong",
+      "block.saphmetamobs.meta_wood_wood": "MetaWood Wood",
+      "entity.saphmetamobs.rock_dude": "Rock Dude",
+      "item.metamobs.earth_icon": "Earth Icon",
+      "entity.metamobs.snail": "Snail",
+      "block.saphmetamobs.blue_meta_block": "Blue Meta Block",
+      "block.metamobs.meta_wood_fence": "MetaWood Fence",
+      "block.metamobs.red_meta_ore": "Red Meta Block",
+      "block.saphmetamobs.meta_wood_leaves": "MetaWood Leaves",
+      "block.saphmetamobs.metalong_ore": "Metalong Ore",
+      "block.metamobs.bonsai_stairs": "Bonsai Stairs",
+      "item.saphmetamobs.earth": "Earth",
+      "block.saphmetamobs.meta_wood_slab": "MetaWood Slab",
+      "block.saphmetamobs.metalong_block": "Block of Metalong",
+      "block.saphmetamobs.red_meta_block": "Red Meta Block",
+      "block.saphmetamobs.blue_flame": "Blue Flame",
+      "item.saphmetamobs.shadow_scale_scythe": "Shadow Scale Scythe",
+      "item.saphmetamobs.golden_meat": "Golden Meat",
+      "item.saphmetamobs.rock_dude_2_spawn_egg": "Rock Dude Spawn Egg",
+      "block.metamobs.blue_meta_ore": "Blue Meta Block",
+      "advancements.start_your_adventure.descr": "Start Your Adventure",
+      "item.saphmetamobs.hp_floppy": "HP Floppy",
+      "item.saphmetamobs.trex_spawn_egg": "Trex Spawn Egg",
+      "block.metamobs.meta_wood_stairs": "MetaWood Stairs"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "metamobs",
+    "modName": "MetaMobs",
+    "version": "1.0.0",
+    "author": "Sapphire, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "metamobs",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "This mod was made with Mcreator",
+    "modElementsPackage": "net.mcreator.metamobs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200233511
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "astral_bow_texture"
+      },
+      "name": "default"
+    }
+  }
+}

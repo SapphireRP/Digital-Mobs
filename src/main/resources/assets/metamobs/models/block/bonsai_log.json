@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "metamobs:blocks/bonsai_log_top",
+    "up": "metamobs:blocks/bonsai_log_top",
+    "north": "metamobs:blocks/bonsai_log_side",
+    "east": "metamobs:blocks/bonsai_log_side",
+    "south": "metamobs:blocks/bonsai_log_side",
+    "west": "metamobs:blocks/bonsai_log_side",
+    "particle": "metamobs:blocks/bonsai_log_side"
+  }
+}

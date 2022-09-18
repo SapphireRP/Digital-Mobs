@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "metamobs:block/meta_wood_slab"
+    },
+    "type=top": {
+      "model": "metamobs:block/meta_wood_slab_top"
+    },
+    "type=double": {
+      "model": "metamobs:block/meta_wood_slab_full"
+    }
+  }
+}

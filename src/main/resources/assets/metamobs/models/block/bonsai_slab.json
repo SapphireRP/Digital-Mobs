@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "metamobs:blocks/bonsai_planks",
+    "bottom": "metamobs:blocks/bonsai_planks",
+    "top": "metamobs:blocks/bonsai_planks",
+    "side": "metamobs:blocks/bonsai_planks"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_fv": 33,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "astral_bow",
+    "customModelName": "astral_bow:default",
+    "name": "Astral Bow",
+    "specialInfo": [
+      "A Bow With Cosmic Power"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MetaMobs"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:AstralBullet"
+    },
+    "shootConstantly": false,
+    "usageCount": 4580,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 30.0,
+    "bulletKnockback": 1,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:AstralBullet"
+    },
+    "bulletModel": "ModelAstral_Bullet",
+    "customBulletModelTexture": "astral_bullet_texture.png"
+  }
+}

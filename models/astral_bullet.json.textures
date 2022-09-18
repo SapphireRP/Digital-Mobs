@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "astral_bullet_texture2"
+      },
+      "name": "default"
+    }
+  }
+}

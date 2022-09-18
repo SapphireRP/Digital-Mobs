@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "metamobs:blocks/metawood2planks",
+    "particle": "metamobs:blocks/metawood2planks"
+  }
+}

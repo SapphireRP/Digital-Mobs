@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "metamobs:meta_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "metamobs:meta_wood_button",
+    "count": 1
+  }
+}

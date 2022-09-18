@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "metamobs:textures/screens/icedragonsteelblock.png",
+    "icon": {
+      "item": "metamobs:earth_icon"
+    },
+    "title": {
+      "translate": "advancements.start_your_adventure.title"
+    },
+    "description": {
+      "translate": "advancements.start_your_adventure.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "start_your_adventure": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:overworld"
+      }
+    }
+  }
+}

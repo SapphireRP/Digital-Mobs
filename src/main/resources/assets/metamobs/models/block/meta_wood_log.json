@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "metamobs:blocks/metawood2logtop",
+    "up": "metamobs:blocks/metawood2logtop",
+    "north": "metamobs:blocks/metawood2logbottom",
+    "east": "metamobs:blocks/metawood2logbottom",
+    "south": "metamobs:blocks/metawood2logbottom",
+    "west": "metamobs:blocks/metawood2logbottom",
+    "particle": "metamobs:blocks/metawood2logbottom"
+  }
+}

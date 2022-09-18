@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "metamobs:bonsai_planks"
+    }
+  ],
+  "result": {
+    "item": "metamobs:bonsai_button",
+    "count": 1
+  }
+}

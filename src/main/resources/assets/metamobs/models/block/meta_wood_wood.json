@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "metamobs:blocks/metawood2logbottom",
+    "particle": "metamobs:blocks/metawood2logbottom"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "metamobs:bonsai_planks"
+    },
+    "1": {
+      "item": "metamobs:bonsai_planks"
+    },
+    "2": {
+      "item": "metamobs:bonsai_planks"
+    }
+  },
+  "result": {
+    "item": "metamobs:bonsai_slab",
+    "count": 6
+  }
+}

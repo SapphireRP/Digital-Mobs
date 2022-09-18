@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "metamobs:block/bonsai_slab"
+    },
+    "type=top": {
+      "model": "metamobs:block/bonsai_slab_top"
+    },
+    "type=double": {
+      "model": "metamobs:block/bonsai_slab_full"
+    }
+  }
+}

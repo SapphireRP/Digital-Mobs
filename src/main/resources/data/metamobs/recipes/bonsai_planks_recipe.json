@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:bonsai_log"
+    }
+  ],
+  "result": {
+    "item": "metamobs:bonsai_planks",
+    "count": 4
+  }
+}

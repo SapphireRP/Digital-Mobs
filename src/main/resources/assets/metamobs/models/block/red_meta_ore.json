@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "metamobs:blocks/redmeta_ore_block",
+    "particle": "metamobs:blocks/redmeta_ore_block"
+  }
+}

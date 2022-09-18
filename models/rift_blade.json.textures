@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "rift_blade_texture"
+      },
+      "name": "default"
+    }
+  }
+}

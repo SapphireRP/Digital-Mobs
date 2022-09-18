@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "metamobs:block/bonsai_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "metamobs:block/bonsai_wood"
+    },
+    "axis=z": {
+      "model": "metamobs:block/bonsai_wood",
+      "x": 90
+    }
+  }
+}

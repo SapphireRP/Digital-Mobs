@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "metamobs:blocks/yellowmeta_ore_block",
+    "particle": "metamobs:blocks/yellowmeta_ore_block"
+  }
+}

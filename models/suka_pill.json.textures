@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "suka_pill_texture"
+      },
+      "name": "default"
+    }
+  }
+}

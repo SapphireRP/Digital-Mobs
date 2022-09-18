@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "metamobs:bonsai_wood",
+    "metamobs:bonsai_log",
+    "metamobs:bonsai_planks",
+    "metamobs:meta_wood_wood",
+    "metamobs:meta_wood_log",
+    "metamobs:meta_wood_planks"
+  ]
+}

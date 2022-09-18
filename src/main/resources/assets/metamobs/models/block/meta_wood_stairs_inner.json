@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "metamobs:blocks/metawood2planks",
+    "bottom": "metamobs:blocks/metawood2planks",
+    "top": "metamobs:blocks/metawood2planks",
+    "side": "metamobs:blocks/metawood2planks"
+  }
+}

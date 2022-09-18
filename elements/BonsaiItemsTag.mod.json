@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BonsaiWood"
+      },
+      {
+        "value": "CUSTOM:BonsaiLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "bonsai_log",
+    "namespace": "forge"
+  }
+}

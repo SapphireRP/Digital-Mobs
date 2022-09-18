@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "particle": "metamobs:blocks/bonsai_planks",
+    "texture": "metamobs:blocks/bonsai_planks"
+  }
+}
