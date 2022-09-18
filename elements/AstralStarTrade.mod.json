@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "FLETCHER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.NETHER_STAR"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:AstralBullet"
+            },
+            "countOffer": 4,
+            "level": 5,
+            "maxTrades": 2,
+            "xp": 11,
+            "priceMultiplier": 1.0
+          }
+        ]
+      }
+    ]
+  }
+}

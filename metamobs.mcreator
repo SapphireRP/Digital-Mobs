@@ -480,6 +480,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "snail"
+    },
+    {
+      "name": "AstralStarTrade",
+      "type": "villagertrade",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "astral_star_trade"
     }
   ],
   "variable_elements": [
